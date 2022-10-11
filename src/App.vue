@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Menu from '@/components/Menu.vue'
+import Menu from '@/components/Menu.vue';
 export default {
   name: 'App',
   components: {
@@ -13,10 +13,12 @@ export default {
 </script>
 
 <style>
-html, body {
-	width: 100%;
-	height: 100%;
+html,
+body {
+  width: 100%;
+  height: 100%;
 }
+
 #app {
   width: 100%;
   height: 100%;
