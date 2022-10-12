@@ -7,8 +7,9 @@
         "preview": "vite preview --port 4173"
     },
     "dependencies": {
-        "vue": "^3.2.38",
-        "@fortawesome/fontawesome-free": "^5.15.4"
+        "@fortawesome/fontawesome-free": "^5.15.4",
+        "pinia": "^2.0.23",
+        "vue": "^3.2.38"
     },
     "devDependencies": {
         "@vitejs/plugin-vue": "^3.0.3",
